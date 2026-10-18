@@ -1,0 +1,9 @@
+metric,value,verdict,note
+H1 r pooled,0.778625569749673,Confirmed,Pearson r between GDP pc and outbound trips per capita
+H1 Spearman,0.7896590205992554,Confirmed,Spearman correlation coefficient
+H2 slope,-1.2125657455126408,Confirmed,OLS slope coefficient for log(distance_km)
+H2 median share within 1000 km,0.5443760390445033,Confirmed,Median share of travelers visiting destinations under 1000km
+model R²,0.2465238852880719,Moderate Fit,Coefficient of determination from OLS model
+number of countries,30,N/A,Selected European countries scope
+number of pairs,870,N/A,Total combination pairs
+year range,2010-2024,N/A,Full sequence of analyzed years

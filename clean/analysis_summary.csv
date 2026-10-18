@@ -1,0 +1,9 @@
+metric,value,verdict,note
+H1 r pooled,0.7966962483810076,Supported,"Pearson r, GDP per capita vs trips per 1,000; excl. 2020-22"
+H1 Spearman,0.7988858027974156,Supported,"Rank correlation, robustness check"
+H2 slope,-1.2167527116223251,Supported,Slope of log(arrivals) on log(distance); excl. 2020-22
+H2 median share within 1000 km,0.5561724665240944,Supported,"Median across origins of share of arrivals < 1,000 km"
+Outlier model R2,0.7275777398756561,,"log(arrivals) ~ log GDP pc, log population (both sides), log distance, border, language"
+Countries,30,,"EU-27 + NO, IS, CH"
+Pairs,870,,30 x 29 origin-destination pairs
+Year range,2010-2024,,2020-2022 flagged as COVID years

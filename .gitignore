@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Tableau lock and recovery files
+.~*
+*.twbr
+
+# Duplicates of files kept elsewhere in the repo
+colab_upload.zip
+raw/**/*.zip
+raw/**/*.gz
+
+# Experimental sheet generator and its output (sheets did not load in Tableau)
+Europe Tourism vs GDP v2.twb
+scripts/add_sheets.py
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
