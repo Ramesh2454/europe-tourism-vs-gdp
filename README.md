@@ -11,6 +11,17 @@ A gravity model (GDP, population, distance, border, language) explains 73% of th
 
 **Patterns, not proof.** Eurostat counts arrivals at tourist accommodation, so one traveller staying in two hotels counts twice and stays with friends or family are missed. Distances are between capitals.
 
+## Key findings
+
+1. **Richer countries travel more — and the link is strong.** GDP per capita and outbound trips per resident correlate at r = 0.80 (rank correlation 0.80, so a few outliers do not drive it). The average resident makes 0.63 trips a year to the other 29 countries.
+2. **Distance cuts travel sharply.** Every doubling of distance between capitals means about 57% fewer arrivals (elasticity −1.22). The typical country sends 56% of its trips to capitals under 1,000 km away.
+3. **But sun beats distance for the biggest flows.** Germany's top destination is Italy (14.1M arrivals, 1,187 km), ahead of neighbouring Austria (13.0M, 523 km); Spain is third (9.8M, 1,873 km). Mediterranean countries pull tourists from well beyond their neighbours.
+4. **Culture and closeness create "super-corridors".** After allowing for wealth, size, distance, border and language, some pairs are far busier than expected: Denmark → Iceland (20×), Finland → Estonia (17×), Slovenia → Croatia (14×), Cyprus → Greece (12×). Austria and Czechia → Croatia (11–12×) show the pull of the Adriatic coast.
+5. **COVID broke the pattern, and it is coming back.** Arrivals between the 30 countries fell 66% in 2020 versus 2019. The wealth–travel link weakened from r = 0.82 (2019) to 0.64 (2021) and has recovered to 0.75 (2024). By 2024, arrivals were 12% above 2019 on comparable country pairs, and every one of the 15 busiest corridors was above its 2019 level (+4% to +31%).
+6. **Rich countries mostly travel "down" the wealth ladder.** Luxembourg, Norway, Switzerland, Ireland, the Netherlands and Austria send 94–100% of their trips to countries with lower GDP per capita. This is partly arithmetic — few destinations are richer than they are — so it shows where money flows, not proof of bargain hunting.
+
+**Limits:** accommodation arrivals, not people; capital-to-capital distances understate how close some neighbours are (Paris–Madrid counts as 1,054 km); correlations show patterns, not causes.
+
 ## Data sources
 
 | Source | Dataset | Used for |
